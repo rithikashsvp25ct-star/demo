@@ -1,7 +1,5 @@
-public class Main {
-    public static void main(String[] args) {
-
-        int[][] studentsMarks = {
+void main() {
+  int[][] studentsMarks = new int [][]{
                 {78, 90, 34},
                 {89, 65, 89},
                 {12, 34, 56},
@@ -40,4 +38,3 @@ public class Main {
 
         }
     }
-}
