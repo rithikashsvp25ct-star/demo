@@ -30,11 +30,9 @@ void main() {
         for (int row = 0; row < studentsMarks.length; row++) {
             System.out.print((row + 1) + "\t");
 
-            for (int col = 0; col < studentsMarks[row].length; col++) {
+           for (int col = 0; col < studentsMarks[row].length; col++) {
                 System.out.print(studentsMarks[row][col] + "\t");
             }
-
             System.out.println();
-
         }
     }
