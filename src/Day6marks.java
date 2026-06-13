@@ -1,4 +1,4 @@
-public class Day5marks {
+public class Day6marks {
 
     static class Student {
         String name, dept;
@@ -73,4 +73,3 @@ public class Day5marks {
     System.out.println("Charan Chemistry Mark: " + s3.getChemistry());
     }
 }
-
