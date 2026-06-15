@@ -1,4 +1,4 @@
-public class D9college {
+public class D9try {
 
     static class College implements AutoCloseable {
         College() {
