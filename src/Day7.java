@@ -32,7 +32,7 @@ public class Day7 {
             System.out.println("Date : " + date);
             System.out.println("Reason : " + reason);
         }
-
+         
         void RejectLeaveRequest() {
             System.out.println("Leave Request Rejected");
             System.out.println("Name : " + name);

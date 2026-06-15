@@ -1,5 +1,4 @@
-public class Day7interface {
-
+public  class Day7interface {
     interface Employee {
         void solveProblem();
         void work();
