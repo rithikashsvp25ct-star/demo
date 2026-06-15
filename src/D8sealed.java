@@ -1,4 +1,4 @@
-public class D8sealed {
+public class D8sealed{
 
     sealed interface LoginResult permits LoginSuccess, LoginFailure, LoginLoading {
     }
