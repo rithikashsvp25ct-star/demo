@@ -40,7 +40,6 @@ public class Day6marks {
             physics = p;
             chemistry=c;
         }
-
         void updateMarks(int m, int p, int c) {
             maths = m;
             physics = p;
